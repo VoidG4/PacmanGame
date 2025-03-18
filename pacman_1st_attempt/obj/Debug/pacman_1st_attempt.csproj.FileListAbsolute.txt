@@ -1,0 +1,10 @@
+C:\Users\GAT\MyProjects\repos\pacman_1st_attempt\pacman_1st_attempt\bin\Debug\pacman_1st_attempt.exe.config
+C:\Users\GAT\MyProjects\repos\pacman_1st_attempt\pacman_1st_attempt\bin\Debug\pacman_1st_attempt.exe
+C:\Users\GAT\MyProjects\repos\pacman_1st_attempt\pacman_1st_attempt\bin\Debug\pacman_1st_attempt.pdb
+C:\Users\GAT\MyProjects\repos\pacman_1st_attempt\pacman_1st_attempt\obj\Debug\pacman_1st_attempt.csproj.AssemblyReference.cache
+C:\Users\GAT\MyProjects\repos\pacman_1st_attempt\pacman_1st_attempt\obj\Debug\pacman_1st_attempt.Form1.resources
+C:\Users\GAT\MyProjects\repos\pacman_1st_attempt\pacman_1st_attempt\obj\Debug\pacman_1st_attempt.Properties.Resources.resources
+C:\Users\GAT\MyProjects\repos\pacman_1st_attempt\pacman_1st_attempt\obj\Debug\pacman_1st_attempt.csproj.GenerateResource.cache
+C:\Users\GAT\MyProjects\repos\pacman_1st_attempt\pacman_1st_attempt\obj\Debug\pacman_1st_attempt.csproj.CoreCompileInputs.cache
+C:\Users\GAT\MyProjects\repos\pacman_1st_attempt\pacman_1st_attempt\obj\Debug\pacman_1st_attempt.exe
+C:\Users\GAT\MyProjects\repos\pacman_1st_attempt\pacman_1st_attempt\obj\Debug\pacman_1st_attempt.pdb
