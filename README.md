@@ -35,7 +35,7 @@ This is a simple implementation of the famous **Pac-Man** game, originally devel
 1. Use the **arrow keys** (or other configured keys) to move Pac-Man through the maze.
 2. Eat the **pellets** scattered around the maze to earn points.
 3. Avoid the **ghosts** that roam the maze and try to catch Pac-Man.
-4. Eat the **fruit** (special items) that appear for bonus points.
+4. Eat the **coins** (special items) that appear for bonus points.
 5. The game progresses to higher levels as Pac-Man eats all pellets in the maze.
 6. The game ends when Pac-Man collides with a ghost.
 
