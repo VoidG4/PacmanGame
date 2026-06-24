@@ -2,6 +2,8 @@
 
 ![Pac-Man Screenshot](/screenshot.png)
 
+// Testing the PR review bot!
+
 A classic **Pac-Man** game built using **C#** and **.NET** in **Visual Studio**.
 
 ## 📜 Description
